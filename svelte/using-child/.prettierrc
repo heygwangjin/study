@@ -1,0 +1,5 @@
+{
+  "svelteStrictMode": true,
+  "svelteBracketNewLine": true,
+  "svelteAllowShorthand": false
+}
